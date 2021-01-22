@@ -16,7 +16,7 @@ int knapsack(int v[],int weight[],int w,int n){
         }
 }
 
-int main(){
+int main(){ //hi 
     int value[] ={60,100,120};
     int weight[] = {10,20,30};
     int w = 50 ;      //knapsack weight
