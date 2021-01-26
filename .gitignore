@@ -1,6 +1,5 @@
 !*.cpp
 *.exe
-*.json
-
+.vscode
 
 
