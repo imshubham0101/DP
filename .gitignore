@@ -1,6 +1,6 @@
-*.exe
-!*.c
 !*.cpp
-!*.txt
-!Makefile
+*.exe
+*.json
+
+
 
